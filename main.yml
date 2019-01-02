@@ -1,8 +1,0 @@
----
-- hosts: localhost
-  connection: local
-  become: false
-  gather_facts: false
-  tasks:
-    - name: execute install script
-      script: an/Reading_Excel_file.py
