@@ -1,6 +1,6 @@
 Patching_day,Patching_Group,Configuration_Item,Release_date
-Day_03,DEV_1,Dev123,12/25/2018
-Day_03,DEV_1,Dev456,12/25/2018
+Day_03,DEV_1,Dev123,1/25/2019
+Day_03,DEV_1,Dev456,1/25/2019
 Day_03,DEV_1,Dev789,12/25/2018
 Day_04,QA/UAT_1,Dev321,12/26/2018
 Day_04,QA/UAT_1,Dev654,12/26/2018
