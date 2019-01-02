@@ -5,4 +5,4 @@
   gather_facts: false
   tasks:
     - name: Run the python file
-      command: python /var/lib/awx/projects/_18__snow_project/Reading_Excel_file.py
+      command: python /var/lib/awx/projects/_6__ansi/Reading_Excel_file.py
